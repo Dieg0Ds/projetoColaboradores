@@ -6,7 +6,7 @@ let name = 'João Lucas';
 let city = 'Salvador';
 
 let meuNome = "Paulo Henrique Barbosa de Lima";
-let minhaCidade = "São Paulo";
+let minhaCidade = "Pernambuco";
 console.log(meuNome);
 console.log(minhaCidade);
 
